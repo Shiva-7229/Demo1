@@ -1,0 +1,76 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.main .uni ul{
+    list-style-type: none;
+    background: #3ea6de;
+    display: flex;
+}
+.main .uni ul li{
+    margin-inline-start: 8px;
+    font-size: 13px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+}
+.main .uni ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+#language{
+    margin-left: 0px;
+    height: 20px;
+    margin-top: 5.5px;
+}
+.main .uni ul li a:hover{
+    color: #000;
+}
+.main1 .about ul{
+    list-style-type: none;
+    background: #0c2b70;
+    display: flex;  
+}
+.main1 .about ul li{
+    margin-inline-start: 8px;
+    font-size: 13px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+}
+.main1 .about ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+.main2{
+    float: right;
+}
+.main2 .off ul{
+    list-style-type: none;
+    background: #3ea6de;
+    display: inline-block;  
+}
+.main2 .off ul li{
+    margin-inline-start: 8px;
+    font-size: 13px;
+    padding-right: 100px;
+    padding-left: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.main2 .off ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+.main2 .off ul li a:hover{
+    color: #000;
+}
+.sep{
+    display: flex;
+    padding: 5px 5px;
+}
+.sep .dem{
+    padding-left: 70px;
+    padding-top: 40px;
+    color: hsl(29, 100%, 37%);
+}    
